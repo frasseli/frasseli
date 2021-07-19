@@ -43,15 +43,16 @@ I'm also a husband, a father, an enthusiast sport fisherman :fishing_pole_and_fi
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=frasseli&show_icons=true&hide_border=true&count_private=true" />
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/nodejs-1.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://openui5.org/2334f398f951a8215d81b1c6c7187705/O_OpenUI5_H.svg"></code>
+<code><img width="10%" src="https://raw.githubusercontent.com/abranhe/programming-languages-logos/master/src/csharp/csharp.svg"></code>
 <br />
 </p>
 
