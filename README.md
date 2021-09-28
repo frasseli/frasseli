@@ -52,13 +52,13 @@ I'm also a husband, a father, an enthusiast sport fisherman :fishing_pole_and_fi
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg"></code>
 <code><img width="15%" src="https://dbdb.io/media/logos/hana.png"></code>
 <code><img width="15%" src="https://www.pikpng.com/pngl/b/205-2057465_s4hana-cloud-logo-sap-s4-hana-cloud-clipart.png"></code>
-
 <br />
 <code><img width="10%" src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/nodejs-1.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://openui5.org/2334f398f951a8215d81b1c6c7187705/O_OpenUI5_H.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></code>
 <br />
+<code><img width="20%" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg"></code>
 </p>
 
 ![Profile views](https://gpvc.arturio.dev/frasseli)
